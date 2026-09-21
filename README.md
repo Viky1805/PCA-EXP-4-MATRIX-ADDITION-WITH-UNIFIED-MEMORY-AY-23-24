@@ -514,10 +514,10 @@ int main(int argc, char **argv)
 
 
 ## OUTPUT:
-<img width="1135" height="720" alt="image" src="https://github.com/user-attachments/assets/b07077e8-9d86-4213-bd15-ce77c3f43ebd" />
 
+<img width="1731" height="767" alt="image" src="https://github.com/user-attachments/assets/bc5e0845-8eb3-4afe-a845-8ae21bb837e5" />
 
-<img width="1125" height="722" alt="image" src="https://github.com/user-attachments/assets/0749e088-7c2e-4b3b-965c-cc1c936cb777" />
+<img width="1720" height="751" alt="image" src="https://github.com/user-attachments/assets/ac4fa0a4-356f-4fd1-bd65-6f34fc26b566" />
 
 ## RESULT:
 Thus the program has been executed by using unified memory. It is observed that removing memset function has given less GPU execution time.
